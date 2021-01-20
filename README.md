@@ -1,5 +1,4 @@
 # phone_authentication
-
 ```
 A new Flutter-Firebase Phone Authentication application with Firebase Authentication.
 ```
@@ -22,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 - firebase_core package
 - How to do Phone Authentication with Flutter-Firebase App.
 
-# Screenshot
+# Screenshots
 
 <img src="https://user-images.githubusercontent.com/73339220/104883899-45b6d880-5987-11eb-94a5-bae388112ffd.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/73339220/104884300-f624dc80-5987-11eb-9b88-359e7b80f43e.jpg" width=300 />
 <img src="https://user-images.githubusercontent.com/73339220/104884312-f9b86380-5987-11eb-96dc-449a81d2e7d3.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/73339220/104884322-fde48100-5987-11eb-85f1-ece114c0b0e7.jpg" width=300 />
